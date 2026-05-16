@@ -1,0 +1,6 @@
+knowledge/        
+__pycache__/
+*.pyc
+.env
+.streamlit/
+*.pdf
